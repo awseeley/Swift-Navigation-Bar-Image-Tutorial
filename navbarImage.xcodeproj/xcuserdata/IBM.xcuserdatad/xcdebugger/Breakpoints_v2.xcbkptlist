@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "navbarImage/ViewController.swift"
+            timestampString = "477475104.117796"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "navbarImage.ViewController.init (navbarImage.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; navbarImage.ViewController"
+                  moduleName = "navbarImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IBM/Documents/SA/navbarImage/navbarImage/ViewController.swift"
+                  timestampString = "477475353.21369"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "navbarImage.ViewController.init (navbarImage.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;navbarImage.ViewController&gt;"
+                  moduleName = "navbarImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IBM/Documents/SA/navbarImage/navbarImage/ViewController.swift"
+                  timestampString = "477475353.213835"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "navbarImage/ViewController.swift"
+            timestampString = "477475377.363113"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "navbarImage.ViewController.__deallocating_deinit"
+                  moduleName = "navbarImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IBM/Documents/SA/navbarImage/navbarImage/ViewController.swift"
+                  timestampString = "477475377.364608"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "navbarImage.ViewController.init (navbarImage.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; navbarImage.ViewController"
+                  moduleName = "navbarImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IBM/Documents/SA/navbarImage/navbarImage/ViewController.swift"
+                  timestampString = "477475377.364784"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "navbarImage.ViewController.init (navbarImage.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;navbarImage.ViewController&gt;"
+                  moduleName = "navbarImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IBM/Documents/SA/navbarImage/navbarImage/ViewController.swift"
+                  timestampString = "477475377.364929"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
