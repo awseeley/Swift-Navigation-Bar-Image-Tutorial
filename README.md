@@ -1,4 +1,4 @@
-Set Set UINavigation Bar Background Image
+Set UINavigation Bar Background Image
 =================
 
 Source code for setting the background image in a UINavigation bar using Swift.
