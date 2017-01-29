@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         let navBackgroundImage = UIImage(named: "gummi_bear_navbar") // Get our image
-        self.navigationController!.navigationBar.setBackgroundImage(navBackgroundImage, forBarMetrics: .Default) // Set the Nav Bar Image
+        self.navigationController!.navigationBar.setBackgroundImage(navBackgroundImage, for: .default) // Set the Nav Bar Image
     }
 
     override func didReceiveMemoryWarning() {
